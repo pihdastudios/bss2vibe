@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+bss2vibe
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+bss2vibe-test-*
+*.exe
+*.o
+*.obj
+*.lst

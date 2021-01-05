@@ -1,0 +1,6 @@
+name "bss2vibe"
+description "bootstrap studio to vibe.d"
+authors "abc"
+copyright "Copyright © 2021, abc"
+license "MPL-2.0"
+dependency "arsd-official:dom" version="~>9.0.4"
